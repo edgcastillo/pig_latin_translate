@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Edwin Castillo"]
   spec.email         = ["edgcastillo@gmail.com"]
   spec.summary       = %q{Pig Latin is a made-up children's language that's intended to be confusing.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.description   = %q{Pig Latin is a made-up children's language that's intended to be confusing. It obeys a few simple rules but when it's spoken quickly it's really difficult for non-children (and non-native speakers) to understand.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
